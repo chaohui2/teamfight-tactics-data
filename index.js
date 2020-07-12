@@ -1,4 +1,11 @@
-const chees= require('./images/lol/act/img/tft/js/chess')
-const chees= require('./images/lol/act/img/tft/js/equip')
-const chees= require('./images/lol/act/img/tft/js/job')
-const chees= require('./images/lol/act/img/tft/js/race')
+const chees= require('./chess')
+const equip= require('./equip')
+const job= require('./job')
+const race= require('./race')
+
+module.exports={
+    chees,
+    equip,
+    job,
+    race
+}
