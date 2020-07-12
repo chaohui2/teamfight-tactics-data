@@ -1,0 +1,17 @@
+{
+  "name": "teamfight-tactics-data",
+  "version": "0.0.1",
+  "description": "云顶之弈英雄、装备、羁绊基础数据",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node fetch.js"
+  },
+  "keywords": [
+    "云顶之弈"
+  ],
+  "author": "yangch",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.0"
+  }
+}
