@@ -1,7 +1,7 @@
-const chees= require('./chess')
-const equip= require('./equip')
-const job= require('./job')
-const race= require('./race')
+const chees= require('./data/chess')
+const equip= require('./data/equip')
+const job= require('./data/job')
+const race= require('./data/race')
 
 module.exports={
     chees,
