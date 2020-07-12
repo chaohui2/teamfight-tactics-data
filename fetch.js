@@ -9,10 +9,10 @@ const urls = [
 ]
 
 ; (async () => {
-    // await fetchJsFile()
-    // await fetchImageFile()
-    //  await fetchChessFile()
-    //  await fetchChessChampionFile()
+    await fetchJsFile()
+    await fetchImageFile()
+    await fetchChessFile()
+    await fetchChessChampionFile()
     await exportJsonFile()
 })()
 
@@ -100,5 +100,4 @@ async function exportJsonFile(){
             jsData= jsData.replace(url,cdnurl)
         })
         fs.promises.writeFile('data/'+path.basename(url)+'on',jsData)
-    }
 }
