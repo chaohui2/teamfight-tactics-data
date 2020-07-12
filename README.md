@@ -4,9 +4,24 @@ This repository is meant to be used as a central place for any data concerning t
 
 > All rights for the included names and images are reserved by Riot Games Inc.
 
-## usage
+## Install
 
-This repository is meant to be used with a cdn.
+```
+
+$ npm install teamfight-tactics-data --save
+
+```
+
+## Usage
+
+```js
+
+const { chees, equip, job, race } = require('teamfight-tactics-data');
+
+```
+
+
+## CDN
 
 ``` txt
 // chess
