@@ -15,7 +15,7 @@
 				"9": "100%几率触发"
 			},
 			"TFTID": "24",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3001.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3001.png"
 		},
 		{
 			"jobId": "2",
@@ -27,7 +27,7 @@
 				"2": "【爆破】英雄施放的技能在对目标造成伤害后，会将目标们晕眩1.5秒。（每次技能施放只会造成1次晕眩)"
 			},
 			"TFTID": "25",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3002.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3002.png"
 		},
 		{
 			"jobId": "3",
@@ -41,7 +41,7 @@
 				"6": "120%攻击速度加成"
 			},
 			"TFTID": "26",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3003.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3003.png"
 		},
 		{
 			"jobId": "4",
@@ -54,7 +54,7 @@
 				"4": "+600生命值"
 			},
 			"TFTID": "27",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3004.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3004.png"
 		},
 		{
 			"jobId": "5",
@@ -68,7 +68,7 @@
 				"6": "70%法术强度"
 			},
 			"TFTID": "28",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3005.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3005.png"
 		},
 		{
 			"jobId": "6",
@@ -82,7 +82,7 @@
 				"6": "55%最大生命值护盾"
 			},
 			"TFTID": "29",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3006.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3006.png"
 		},
 		{
 			"jobId": "7",
@@ -95,7 +95,7 @@
 				"4": "【狙神】与目标之间每相距1格，造成的伤害就会提升18%。"
 			},
 			"TFTID": "30",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3007.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3007.png"
 		},
 		{
 			"jobId": "8",
@@ -108,7 +108,7 @@
 				"4": "+120魔法抗性"
 			},
 			"TFTID": "31",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3008.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3008.png"
 		},
 		{
 			"jobId": "9",
@@ -120,7 +120,7 @@
 				"2": "【破法战士】们的普通攻击会使目标下一个技能的法力消耗提升40%。"
 			},
 			"TFTID": "32",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3009.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3009.png"
 		},
 		{
 			"jobId": "10",
@@ -133,7 +133,7 @@
 				"4": "6次额外攻击"
 			},
 			"TFTID": "33",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3010.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3010.png"
 		},
 		{
 			"jobId": "11",
@@ -145,7 +145,7 @@
 				"1": "固有：【星舰】每秒获得40法力值，围着棋盘不断回旋，并且免疫移动受损效果，但无法进行普通攻击。"
 			},
 			"TFTID": "34",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3011.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3011.png"
 		},
 		{
 			"jobId": "12",
@@ -157,7 +157,7 @@
 				"1": "佣兵们可以在商店中购买他们的技能升级。"
 			},
 			"TFTID": "35",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3012.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3012.png"
 		},
 		{
 			"jobId": "13",
@@ -171,7 +171,7 @@
 				"6": "+1000护甲"
 			},
 			"TFTID": "36",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3013.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3013.png"
 		},
 		{
 			"jobId": "14",
@@ -183,7 +183,7 @@
 				"1": "友方【星之守护者】 的普通攻击转化为真实伤害。所有其他友军的普通攻击转化为魔法伤害。\r\n"
 			},
 			"TFTID": "37",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/classes/3014.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/classes/3014.png"
 		}
 	]
 }

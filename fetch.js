@@ -84,7 +84,7 @@ async function fetchChessChampionFile(){
 
 async function exportJsonFile(){
     let imageDomain='https://game.gtimg.cn/'
-    let cdnDomain='https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/'
+    let cdnDomain='https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/'
     for (let i = 0; i < tft.urls.length; i++) {
         const url = tft.urls[i]
         let filepath = './images/lol/act/img/tft/js/' + path.basename(url)

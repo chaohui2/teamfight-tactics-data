@@ -15,7 +15,7 @@
 				"9": "共提供45法力值"
 			},
 			"TFTID": "29",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3101.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3101.png"
 		},
 		{
 			"raceId": "2",
@@ -27,7 +27,7 @@
 				"3": "在战斗环节开始时，3名随机的【银河魔装机神】会被传送到一台【超级魔装机神】中。"
 			},
 			"TFTID": "30",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3102.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3102.png"
 		},
 		{
 			"raceId": "3",
@@ -41,7 +41,7 @@
 				"6": "150%治疗效果\r\n"
 			},
 			"TFTID": "31",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3103.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3103.png"
 		},
 		{
 			"raceId": "4",
@@ -55,7 +55,7 @@
 				"9": "每位【奥德赛】提供330护盾值和15%伤害提升"
 			},
 			"TFTID": "32",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3104.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3104.png"
 		},
 		{
 			"raceId": "5",
@@ -70,7 +70,7 @@
 				"8": "每过0.75秒，所有友军攻击速度+15%"
 			},
 			"TFTID": "33",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3105.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3105.png"
 		},
 		{
 			"raceId": "7",
@@ -83,7 +83,7 @@
 				"4": "50%几率掉落1金币且25%几率掉落1件基础装备"
 			},
 			"TFTID": "35",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3107.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3107.png"
 		},
 		{
 			"raceId": "8",
@@ -96,7 +96,7 @@
 				"6": "550生命值和70攻击力"
 			},
 			"TFTID": "36",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3108.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3108.png"
 		},
 		{
 			"raceId": "9",
@@ -111,7 +111,7 @@
 				"8": "38额外攻击力和法术强度"
 			},
 			"TFTID": "37",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3109.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3109.png"
 		},
 		{
 			"raceId": "11",
@@ -126,7 +126,7 @@
 				"8": "880治疗效果或伤害。"
 			},
 			"TFTID": "39",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3111.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3111.png"
 		},
 		{
 			"raceId": "13",
@@ -138,7 +138,7 @@
 				"3": "【宇航员】英雄的法力消耗减少30。"
 			},
 			"TFTID": "41",
-			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-tools/teamfight-tactics-data/images/lol/act/img/tft/origins/3112.png"
+			"imagePath": "https://cdn.jsdelivr.net/gh/chaohui2/teamfight-tactics-data/images/lol/act/img/tft/origins/3112.png"
 		}
 	]
 }
